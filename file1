@@ -1,5 +1,7 @@
 # Define two numerical variables
+
 num1 = 3000
+
 num2 = 200
 
 # Calculate the sum
