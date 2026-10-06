@@ -2,7 +2,7 @@
 
 num1 = 3000
 
-num2 = 200
+num2 = 400
 
 # Calculate the sum
 total = num1 + num2
